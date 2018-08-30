@@ -2,7 +2,7 @@
 ## hello_darwin
 
 ### App Description
-`TODO:// the hello_darwin app allows you to change the background color, the text color as well as change the text. To change the background color and the text color you can simply tap on the specific buttons, to change the text you have to write some text on the white box and tap on the button called "tap to change text". to reset everything simply tap anywhere on the screen where there isn't a button or the white box.
+// the hello_darwin app allows you to change the background color, the text color as well as change the text. To change the background color and the text color you can simply tap on the specific buttons, to change the text you have to write some text on the white box and tap on the button called "tap to change text". to reset everything simply tap anywhere on the screen where there isn't a button or the white box.
 
 ### App Walk-though
 
