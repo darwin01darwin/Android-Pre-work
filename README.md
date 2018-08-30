@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<a href="https://imgur.com/a/ldkGQJo"> <img src="https://i.imgur.com/d9akYrt.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/2guo9z"><img src="https://i.imgflip.com/2guo9z.gif" title="made at imgflip.com"/></a>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
