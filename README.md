@@ -5,9 +5,8 @@
 `TODO:// the hello_darwin app allows you to change the background color, the text color as well as change the text. To change the background color and the text color you can simply tap on the specific buttons, to change the text you have to write some text on the white box and tap on the button called "tap to change text". to reset everything simply tap anywhere on the screen where there isn't a button or the white box.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="https://imgflip.com/gif/2guo9z" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
